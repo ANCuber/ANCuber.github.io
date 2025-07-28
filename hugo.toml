@@ -1,0 +1,4 @@
+baseURL = 'https://ANCuber.github.io/'
+languageCode = 'en-us'
+title = "ANCuber's Blog"
+theme = 'erblog'
