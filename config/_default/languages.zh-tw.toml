@@ -1,14 +1,14 @@
-disabled = true
-languageCode = "en"
-languageName = "English"
-weight = 2
+disabled = false
+languageCode = "zh-tw"
+languageName = "繁體中文"
+weight = 1
 title = "ANCuber's Website"
 
 [params]
-    displayName = "EN"
-    isoCode = "en"
+    displayName = "繁體中文"
+    isoCode = "zh-tw"
     rtl = false
-    dateFormat = "2 January 2006"
+    dateFormat = "2006-01-02"
     # logo = "img/pikachu.png"
     # secondaryLogo = "img/pikachu.png"
   # description = "My awesome website"
@@ -19,7 +19,7 @@ title = "ANCuber's Website"
     email = "ansona1131@gmail.com"
     image = "img/author.jpeg"
     imageQuality = 96
-    headline = "Welcome!"
+    headline = "歡迎！"
   # bio = "Hi, I am currently a college student majoring CS at NTU."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
