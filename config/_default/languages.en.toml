@@ -1,7 +1,7 @@
-disabled = true
+disabled = false
 languageCode = "en"
 languageName = "English"
-weight = 2
+weight = 1
 title = "ANCuber's Website"
 
 [params]
