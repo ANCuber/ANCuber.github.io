@@ -30,7 +30,7 @@ hasCJKLanguage = true # Detect CJK languages
     tag = "tags"
     category = "categories"
     author = "authors"
-    series = "series"
+    # series = "series"
 
 [sitemap]
     changefreq = 'daily'

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>散文 on ANCuber&#39;s Website</title>
+    <link>http://localhost:1313/categories/%E6%95%A3%E6%96%87/</link>
+    <description>Recent content in 散文 on ANCuber&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ansona1131@gmail.com (Anson Lai)</managingEditor>
+    <webMaster>ansona1131@gmail.com (Anson Lai)</webMaster>
+    <copyright>© 2025 Anson Lai</copyright>
+    <lastBuildDate>Tue, 29 Jul 2025 20:31:27 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%95%A3%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>霧的旅程</title>
+      <link>http://localhost:1313/posts/freshman/</link>
+      <pubDate>Tue, 29 Jul 2025 20:31:27 +0800</pubDate>
+      <author>ansona1131@gmail.com (Anson Lai)</author>
+      <guid>http://localhost:1313/posts/freshman/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/freshman/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
