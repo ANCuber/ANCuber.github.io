@@ -3,7 +3,6 @@ date = '2025-08-02T10:18:34+08:00'
 draft = false
 title = "碎形"
 tags = ["新詩"]
-showReadingTime = false
 +++
 
 你怎能不愛那從崖邊開展的無窮  

@@ -3,7 +3,6 @@ date = '2025-08-02T10:14:09+08:00'
 draft = false
 title = "眷戀"
 tags = ["新詩"]
-showReadingTime = false
 +++
 
 「似乎該走了。」  
