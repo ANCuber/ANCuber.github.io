@@ -1,10 +1,10 @@
 disabled = true
-local = "en"
-lable = "English"
 weight = 2
 title = "ANCuber's Website"
 
 [params]
+    lable = "English"
+    locale = "en"
     displayName = "EN"
     isoCode = "en"
     rtl = false
@@ -17,7 +17,7 @@ title = "ANCuber's Website"
 [params.author]
     name = "Anson Lai"
     email = "ansona1131@gmail.com"
-    image = "img/author.jpeg"
+    image = "img/author.jpg"
     imageQuality = 96
     headline = "Welcome!"
     # bio = "Hi, I am currently a college student majoring CS at NTU."
