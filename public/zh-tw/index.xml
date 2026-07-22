@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ANCuber&#39;s Website</title>
+    <title>Zh-Tws on ANCuber 的部落格</title>
     <link>http://localhost:1313/zh-tw/</link>
-    <description>Recent content on ANCuber&#39;s Website</description>
+    <description>Recent content in Zh-Tws on ANCuber 的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <managingEditor>ansona1131@gmail.com (Anson Lai)</managingEditor>
     <webMaster>ansona1131@gmail.com (Anson Lai)</webMaster>
-    <copyright>© 2025 Anson Lai</copyright>
-    <atom:link href="http://localhost:1313/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Anson Lai</copyright>
+    <lastBuildDate>Fri, 01 Aug 2025 22:35:20 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>關於我：ANCuber</title>
+      <link>http://localhost:1313/zh-tw/about/</link>
+      <pubDate>Fri, 01 Aug 2025 22:35:20 +0800</pubDate>
+      <author>ansona1131@gmail.com (Anson Lai)</author>
+      <guid>http://localhost:1313/zh-tw/about/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ANCuber&#39;s Website</title>
-    <link>https://ANCuber.github.io/tags/</link>
-    <description>Recent content in Tags on ANCuber&#39;s Website</description>
+    <title>Tags on ANCuber 的部落格</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on ANCuber 的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-tw</language>
     <managingEditor>ansona1131@gmail.com (Anson Lai)</managingEditor>
     <webMaster>ansona1131@gmail.com (Anson Lai)</webMaster>
-    <copyright>© 2025 Anson Lai</copyright>
-    <lastBuildDate>Sat, 02 Aug 2025 10:18:51 +0800</lastBuildDate><atom:link href="https://ANCuber.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Anson Lai</copyright>
+    <lastBuildDate>Sat, 02 Aug 2025 10:18:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>新詩</title>
-      <link>https://ANCuber.github.io/tags/%E6%96%B0%E8%A9%A9/</link>
+      <link>http://localhost:1313/tags/%E6%96%B0%E8%A9%A9/</link>
       <pubDate>Sat, 02 Aug 2025 10:18:51 +0800</pubDate>
       <author>ansona1131@gmail.com (Anson Lai)</author>
-      <guid>https://ANCuber.github.io/tags/%E6%96%B0%E8%A9%A9/</guid>
+      <guid>http://localhost:1313/tags/%E6%96%B0%E8%A9%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>散文</title>
-      <link>https://ANCuber.github.io/tags/%E6%95%A3%E6%96%87/</link>
+      <link>http://localhost:1313/tags/%E6%95%A3%E6%96%87/</link>
       <pubDate>Tue, 29 Jul 2025 20:31:27 +0800</pubDate>
       <author>ansona1131@gmail.com (Anson Lai)</author>
-      <guid>https://ANCuber.github.io/tags/%E6%95%A3%E6%96%87/</guid>
+      <guid>http://localhost:1313/tags/%E6%95%A3%E6%96%87/</guid>
       <description></description>
       
     </item>

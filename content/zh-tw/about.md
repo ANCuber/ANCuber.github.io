@@ -2,6 +2,10 @@
 date = '2025-08-01T22:35:20+08:00'
 draft = false
 title = '關於我：ANCuber'
+
+showDate = false
+showReadingTime = false
+showWordCount = false
 +++
 
 哈囉！

@@ -37,7 +37,6 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [author]
     links = [
-        # { email = "ansona1131@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -51,6 +50,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
         { github = "https://github.com/ANCuber" },
+        { wca = "https://www.worldcubeassociation.org/persons/2018LAIH01" },
+        { email = "ansona1131@gmail.com" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -115,7 +116,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
     showLikes = false
     showDateOnlyInArticle = false
     showDateUpdated = false
-    showAuthor = true
+    showAuthor = false
     showAuthorBottom = true
     showHero = false
     # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground

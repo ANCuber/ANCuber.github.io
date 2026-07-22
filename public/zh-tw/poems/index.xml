@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>詩 on ANCuber 的部落格</title>
+    <link>http://localhost:1313/zh-tw/poems/</link>
+    <description>Recent content in 詩 on ANCuber 的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>ansona1131@gmail.com (Anson Lai)</managingEditor>
+    <webMaster>ansona1131@gmail.com (Anson Lai)</webMaster>
+    <copyright>© 2026 Anson Lai</copyright>
+    <lastBuildDate>Sat, 02 Aug 2025 10:18:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/poems/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>白旗</title>
+      <link>http://localhost:1313/zh-tw/poems/whiteflag/</link>
+      <pubDate>Sat, 02 Aug 2025 10:18:51 +0800</pubDate>
+      <author>ansona1131@gmail.com (Anson Lai)</author>
+      <guid>http://localhost:1313/zh-tw/poems/whiteflag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>魂</title>
+      <link>http://localhost:1313/zh-tw/poems/soul/</link>
+      <pubDate>Sat, 02 Aug 2025 10:18:45 +0800</pubDate>
+      <author>ansona1131@gmail.com (Anson Lai)</author>
+      <guid>http://localhost:1313/zh-tw/poems/soul/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>幽藍</title>
+      <link>http://localhost:1313/zh-tw/poems/darkblue/</link>
+      <pubDate>Sat, 02 Aug 2025 10:18:40 +0800</pubDate>
+      <author>ansona1131@gmail.com (Anson Lai)</author>
+      <guid>http://localhost:1313/zh-tw/poems/darkblue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>碎形</title>
+      <link>http://localhost:1313/zh-tw/poems/fractal/</link>
+      <pubDate>Sat, 02 Aug 2025 10:18:34 +0800</pubDate>
+      <author>ansona1131@gmail.com (Anson Lai)</author>
+      <guid>http://localhost:1313/zh-tw/poems/fractal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>眷戀</title>
+      <link>http://localhost:1313/zh-tw/poems/linger/</link>
+      <pubDate>Sat, 02 Aug 2025 10:14:09 +0800</pubDate>
+      <author>ansona1131@gmail.com (Anson Lai)</author>
+      <guid>http://localhost:1313/zh-tw/poems/linger/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
-disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 1
+disabled = true
+local = "en"
+lable = "English"
+weight = 2
 title = "ANCuber's Website"
 
 [params]
@@ -11,8 +11,8 @@ title = "ANCuber's Website"
     dateFormat = "2 January 2006"
     # logo = "img/pikachu.png"
     # secondaryLogo = "img/pikachu.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+    # description = "My awesome website"
+    # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
     name = "Anson Lai"

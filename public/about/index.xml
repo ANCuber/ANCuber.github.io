@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>關於我：ANCuber on ANCuber&#39;s Website</title>
-    <link>https://ANCuber.github.io/about/</link>
-    <description>Recent content in 關於我：ANCuber on ANCuber&#39;s Website</description>
+    <title>關於我：ANCuber on ANCuber 的部落格</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in 關於我：ANCuber on ANCuber 的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-tw</language>
     <managingEditor>ansona1131@gmail.com (Anson Lai)</managingEditor>
     <webMaster>ansona1131@gmail.com (Anson Lai)</webMaster>
-    <copyright>© 2025 Anson Lai</copyright>
-    <lastBuildDate>Fri, 01 Aug 2025 22:35:20 +0800</lastBuildDate><atom:link href="https://ANCuber.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Anson Lai</copyright>
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

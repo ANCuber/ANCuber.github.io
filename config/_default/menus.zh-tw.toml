@@ -11,9 +11,26 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-    name = "文章"
+    name = "關於"
+    pageRef = "about"
+    weight = 100
+
+[[main]]
+    name = "隨筆"
     pageRef = "posts"
+    weight = 15
+
+[[main]]
+    name = "方塊"
+    pageRef = "cubing"
     weight = 10
+
+[[main]]
+    name = "詩"
+    pageRef = "poems"
+    weight = 20
+
+
 
 #[[main]]
 #  name = "Parent"

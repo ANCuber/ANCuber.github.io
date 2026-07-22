@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://ANCuber.github.io/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-tw"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -21,7 +21,7 @@ enableEmoji = true
 hasCJKLanguage = true # Detect CJK languages
 
 [pagination]
-    pagerSize = 100
+    pagerSize = 10
 
 [imaging]
     anchor = 'Center'
@@ -29,7 +29,7 @@ hasCJKLanguage = true # Detect CJK languages
 [taxonomies]
     tag = "tags"
     category = "categories"
-    author = "authors"
+    # author = "authors"
     # series = "series"
 
 [sitemap]
@@ -52,17 +52,13 @@ hasCJKLanguage = true # Detect CJK languages
             name = "categories"
             weight = 100
 
-        [[related.indices]]
-            name = "series"
-            weight = 50
-
-        [[related.indices]]
-            name = "authors"
-            weight = 20
+        # [[related.indices]]
+        #     name = "series"
+        #     weight = 10
 
         [[related.indices]]
             name = "date"
-            weight = 10
+            weight = 40
 
         [[related.indices]]
             applyFilter = false

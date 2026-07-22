@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>新詩 on ANCuber&#39;s Website</title>
-    <link>https://ANCuber.github.io/tags/%E6%96%B0%E8%A9%A9/</link>
-    <description>Recent content in 新詩 on ANCuber&#39;s Website</description>
+    <title>新詩 on ANCuber 的部落格</title>
+    <link>http://localhost:1313/tags/%E6%96%B0%E8%A9%A9/</link>
+    <description>Recent content in 新詩 on ANCuber 的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-tw</language>
     <managingEditor>ansona1131@gmail.com (Anson Lai)</managingEditor>
     <webMaster>ansona1131@gmail.com (Anson Lai)</webMaster>
-    <copyright>© 2025 Anson Lai</copyright>
-    <lastBuildDate>Sat, 02 Aug 2025 10:18:51 +0800</lastBuildDate><atom:link href="https://ANCuber.github.io/tags/%E6%96%B0%E8%A9%A9/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Anson Lai</copyright>
+    <lastBuildDate>Sat, 02 Aug 2025 10:18:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%96%B0%E8%A9%A9/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>白旗</title>
-      <link>https://ANCuber.github.io/poems/whiteflag/</link>
+      <link>http://localhost:1313/zh-tw/poems/whiteflag/</link>
       <pubDate>Sat, 02 Aug 2025 10:18:51 +0800</pubDate>
       <author>ansona1131@gmail.com (Anson Lai)</author>
-      <guid>https://ANCuber.github.io/poems/whiteflag/</guid>
+      <guid>http://localhost:1313/zh-tw/poems/whiteflag/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>魂</title>
-      <link>https://ANCuber.github.io/poems/soul/</link>
+      <link>http://localhost:1313/zh-tw/poems/soul/</link>
       <pubDate>Sat, 02 Aug 2025 10:18:45 +0800</pubDate>
       <author>ansona1131@gmail.com (Anson Lai)</author>
-      <guid>https://ANCuber.github.io/poems/soul/</guid>
+      <guid>http://localhost:1313/zh-tw/poems/soul/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>幽藍</title>
-      <link>https://ANCuber.github.io/poems/darkblue/</link>
+      <link>http://localhost:1313/zh-tw/poems/darkblue/</link>
       <pubDate>Sat, 02 Aug 2025 10:18:40 +0800</pubDate>
       <author>ansona1131@gmail.com (Anson Lai)</author>
-      <guid>https://ANCuber.github.io/poems/darkblue/</guid>
+      <guid>http://localhost:1313/zh-tw/poems/darkblue/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>碎形</title>
-      <link>https://ANCuber.github.io/poems/fractal/</link>
+      <link>http://localhost:1313/zh-tw/poems/fractal/</link>
       <pubDate>Sat, 02 Aug 2025 10:18:34 +0800</pubDate>
       <author>ansona1131@gmail.com (Anson Lai)</author>
-      <guid>https://ANCuber.github.io/poems/fractal/</guid>
+      <guid>http://localhost:1313/zh-tw/poems/fractal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>眷戀</title>
-      <link>https://ANCuber.github.io/poems/linger/</link>
+      <link>http://localhost:1313/zh-tw/poems/linger/</link>
       <pubDate>Sat, 02 Aug 2025 10:14:09 +0800</pubDate>
       <author>ansona1131@gmail.com (Anson Lai)</author>
-      <guid>https://ANCuber.github.io/poems/linger/</guid>
+      <guid>http://localhost:1313/zh-tw/poems/linger/</guid>
       <description></description>
       
     </item>
