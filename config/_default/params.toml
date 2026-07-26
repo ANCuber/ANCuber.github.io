@@ -14,7 +14,7 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["posts", "poems"]
+mainSections = ["cubing", "posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -117,9 +117,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
     showDateOnlyInArticle = false
     showDateUpdated = false
     showAuthor = false
-    showAuthorBottom = true
-    showHero = false
-    # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+    showAuthorBottom = false
+    showHero = true
+    heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
     layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
     layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
     showBreadcrumbs = false
@@ -131,14 +131,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
     showHeadingAnchors = true
     showPagination = true
     invertPagination = false
-    showReadingTime = true
-    showTableOfContents = false
+    showReadingTime = false
+    showTableOfContents = true
     # showRelatedContent = false
     # relatedContentLimit = 3
     showTaxonomies = true # use showTaxonomies OR showCategoryOnly, not both
     showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
     showAuthorsBadges = false
-    showWordCount = true
+    showWordCount = false
     # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
     showZenMode = false
 
