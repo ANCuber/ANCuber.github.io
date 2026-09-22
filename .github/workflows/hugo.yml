@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.158.0
+      HUGO_VERSION: 0.163.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -46,8 +46,13 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: hugo-resources-${{ runner.os }}-${{ hashFiles('**/go.mod', 'config/**', 'assets/**', 'themes/**') }}
+          restore-keys: |
+            hugo-resources-${{ runner.os }}-
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
