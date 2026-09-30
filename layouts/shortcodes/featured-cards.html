@@ -1,0 +1,12 @@
+<section class="featured-cards">
+  {{ range $path := .Params }}
+    {{ $page := site.GetPage $path }}
+    {{ with $page }}
+      <div class="featured-card">
+        {{ partial "article-link/card.html" . }}
+      </div>
+    {{ else }}
+      {{ errorf "featured-cards shortcode: page %q was not found" $path }}
+    {{ end }}
+  {{ end }}
+</section>
