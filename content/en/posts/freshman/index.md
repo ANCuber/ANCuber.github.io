@@ -2,7 +2,7 @@
 date = '2025-07-29T20:31:27+08:00'
 draft = false
 title = "霧的旅程"
-tags = ["散文"]
+tags = ["Essay"]
 +++
 
 ## 前言

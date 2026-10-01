@@ -1,5 +1,5 @@
 +++
-title = "詩"
+title = "Poems"
 
 [cascade]
     showReadingTime = false

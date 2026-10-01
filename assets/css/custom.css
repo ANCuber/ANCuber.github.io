@@ -20,3 +20,67 @@
   font-size: 1rem;
   line-height: 1.4;
 }
+
+/* Table of contents on single posts (layouts/_default/single.html + layouts/partials/toc.html) */
+.article-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.toc-side {
+  padding-inline-start: 1.25rem;
+  border-inline-start: 1px dotted rgb(var(--color-neutral-300));
+  margin-bottom: 1.5rem;
+}
+
+.toc-list ul {
+  list-style: none;
+  padding-inline-start: 0;
+  margin: 0;
+}
+
+.toc-list ul ul {
+  padding-inline-start: 1rem;
+}
+
+.toc-list li {
+  margin: 0.25rem 0;
+}
+
+.toc-list a {
+  text-decoration: none;
+  font-weight: normal;
+}
+
+@media (min-width: 768px) {
+  .article-body {
+    flex-direction: row;
+  }
+
+  .toc-side {
+    order: 1;
+    margin-inline-start: auto;
+    padding-inline-start: 2rem;
+    flex: 0 0 auto;
+    min-width: 220px;
+    max-width: 18rem;
+    border-inline-start: none;
+  }
+
+  .toc-list {
+    position: sticky;
+    top: 140px;
+    padding-inline-start: 1.25rem;
+    border-inline-start: 1px dotted rgb(var(--color-neutral-300));
+  }
+}
+
+/* Author block on the About page (showAuthor = true in content/en/about.md) */
+.author > img {
+  height: 10rem;
+  width: 10rem;
+}
+
+.author .uppercase {
+  display: none; /* hides the small "AUTHOR" byline label originally in Blowfish */
+}

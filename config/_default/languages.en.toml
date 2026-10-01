@@ -1,9 +1,10 @@
-disabled = true
-weight = 2
-title = "ANCuber's Website"
+disabled = false
+weight = 1
+title = "ANCuber's Blog"
+contentDir = "content/en"
 
 [params]
-    lable = "English"
+    label = "English"
     locale = "en"
     displayName = "EN"
     isoCode = "en"

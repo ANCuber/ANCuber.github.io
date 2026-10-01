@@ -1,5 +1,5 @@
 +++
-title = "魔術方塊"
+title = "Cubing"
 
 [cascade]
     showWordCount = false

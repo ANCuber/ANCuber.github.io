@@ -2,7 +2,7 @@
 date = '2025-08-02T10:14:09+08:00'
 draft = false
 title = "眷戀"
-tags = ["新詩"]
+tags = ["Poetry"]
 +++
 
 「似乎該走了。」  

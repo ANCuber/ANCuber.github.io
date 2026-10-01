@@ -2,7 +2,7 @@
 date = '2025-08-02T10:18:40+08:00'
 draft = false
 title = "幽藍"
-tags = ["新詩"]
+tags = ["Poetry"]
 +++
 
 閃動的燈火是你隨手撒下的筆觸  

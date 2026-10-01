@@ -2,7 +2,7 @@
 date = '2025-08-02T10:18:51+08:00'
 draft = false
 title = "白旗"
-tags = ["新詩"]
+tags = ["Poetry"]
 +++
 
 步入雨林  

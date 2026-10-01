@@ -1,0 +1,19 @@
+{{/*
+  Renders a download button for a resume stored in the static/ folder.
+  Usage: {{< resume-button >}}  or  {{< resume-button file="cv.pdf" label="Download CV" >}}
+  If the file does not exist yet, nothing is rendered and a build warning is printed.
+*/}}
+{{ $file := .Get "file" | default "resume.pdf" }}
+{{ $label := .Get "label" | default "Download Resume (PDF)" }}
+{{ if fileExists (printf "static/%s" $file) }}
+  <a
+    class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700 inline-flex items-center gap-2"
+    href="{{ $file | relURL }}"
+    download
+    role="button">
+    <span class="h-4 w-4 inline-block">{{ partial "icon" "download" }}</span>
+    <span>{{ $label }}</span>
+  </a>
+{{ else }}
+  {{ warnf "resume-button: static/%s not found, button hidden. See BLOG_MAINTENANCE.md." $file }}
+{{ end }}
